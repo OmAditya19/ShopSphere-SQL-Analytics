@@ -1,1 +1,9 @@
-
+- Customers(customer_id)
+- Categories(category_id)
+- Suppliers(supplier_id)
+- Products(product_id) → links to Categories, Suppliers
+- Orders(order_id) → links to Customers
+- Order_Items(order_item_id) → links to Orders, Products
+- Payments(payment_id) → links to Orders
+- Returns(return_id) → links to Orders
+- Reviews(review_id) → links to Customers, Products
