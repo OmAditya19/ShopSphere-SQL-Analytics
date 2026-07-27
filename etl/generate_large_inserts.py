@@ -9,14 +9,14 @@ from pathlib import Path
 # Start smaller for testing, then scale up.
 # --------------------------------------------------
 SEED = 42
-CUSTOMER_COUNT = 20_000
-CATEGORY_COUNT = 20
-SUPPLIER_COUNT = 200
-PRODUCT_COUNT = 5_000
-ORDER_COUNT = 100_000
-TARGET_RETURN_COUNT = 8_000
-TARGET_REVIEW_COUNT = 50_000
-BATCH_SIZE = 1_000
+CUSTOMER_COUNT = 200
+CATEGORY_COUNT = 5
+SUPPLIER_COUNT = 10
+PRODUCT_COUNT = 100
+ORDER_COUNT = 500
+TARGET_RETURN_COUNT = 30
+TARGET_REVIEW_COUNT = 150
+BATCH_SIZE = 50
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_FILE = ROOT / "sql" / "02_insert_data.sql"
