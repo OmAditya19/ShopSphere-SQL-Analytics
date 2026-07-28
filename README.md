@@ -1,7 +1,7 @@
 # ShopSphere-SQL-Analytics
 
-ShopSphere is an end-to-end e-commerce analytics project built on GCP.  
-It uses Cloud SQL for PostgreSQL as the transactional database, Cloud Storage for file storage, BigQuery for analytics, and Looker Studio for dashboarding.
+ShopSphere is an end-to-end e-commerce analytics project built on SQL.  
+It uses PostgreSQL as the transactional database, and Power BI for dashboarding.
 
 # Problem
 # Stack
