@@ -1,0 +1,201 @@
+customer_id,full_name,email,gender,city,state,country,signup_date
+1,Leo Stone,leo.stone1@example.com,Female,Denver,Colorado,USA,2023-05-24
+2,Leo Adams,leo.adams2@example.com,Female,San Diego,California,USA,2023-09-13
+3,Lucas Cooper,lucas.cooper3@example.com,Female,Chicago,Illinois,USA,2024-10-30
+4,Amelia Green,amelia.green4@example.com,Male,Atlanta,Georgia,USA,2024-01-28
+5,Mason Baker,mason.baker5@example.com,Male,Portland,Oregon,USA,2024-09-08
+6,Amelia Murphy,amelia.murphy6@example.com,Female,Austin,Texas,USA,2024-08-10
+7,Olivia Turner,olivia.turner7@example.com,Female,San Diego,California,USA,2025-08-10
+8,Harper Phillips,harper.phillips8@example.com,Male,Portland,Oregon,USA,2025-11-12
+9,Elijah Gray,elijah.gray9@example.com,Male,Portland,Oregon,USA,2024-08-04
+10,Charlotte Bennett,charlotte.bennett10@example.com,Male,Denver,Colorado,USA,2024-04-26
+11,Leo Green,leo.green11@example.com,Male,Seattle,Washington,USA,2023-10-29
+12,Ava Carter,ava.carter12@example.com,Female,Seattle,Washington,USA,2023-05-30
+13,Harper Turner,harper.turner13@example.com,Male,Portland,Oregon,USA,2025-02-25
+14,Elijah Baker,elijah.baker14@example.com,Male,Seattle,Washington,USA,2023-01-12
+15,Noah Turner,noah.turner15@example.com,Male,Seattle,Washington,USA,2025-11-26
+16,Harper Carter,harper.carter16@example.com,Male,Atlanta,Georgia,USA,2023-09-06
+17,Harper Patel,harper.patel17@example.com,Female,Phoenix,Arizona,USA,2025-06-25
+18,Henry Cooper,henry.cooper18@example.com,Female,Boston,Massachusetts,USA,2023-11-22
+19,Elijah Phillips,elijah.phillips19@example.com,Male,Chicago,Illinois,USA,2024-07-21
+20,Charlotte Evans,charlotte.evans20@example.com,Male,Portland,Oregon,USA,2024-07-16
+21,Harper Reed,harper.reed21@example.com,Female,Houston,Texas,USA,2024-04-25
+22,Emma Adams,emma.adams22@example.com,Male,Denver,Colorado,USA,2023-10-11
+23,Mia Hall,mia.hall23@example.com,Male,Boston,Massachusetts,USA,2024-03-14
+24,Sophia Turner,sophia.turner24@example.com,Female,Boston,Massachusetts,USA,2025-08-12
+25,Mason Carter,mason.carter25@example.com,Female,Seattle,Washington,USA,2025-03-08
+26,Evelyn Thompson,evelyn.thompson26@example.com,Female,San Diego,California,USA,2025-09-03
+27,Ava Ward,ava.ward27@example.com,Female,Chicago,Illinois,USA,2025-05-08
+28,Logan Murphy,logan.murphy28@example.com,Male,San Diego,California,USA,2025-09-26
+29,James Walker,james.walker29@example.com,Female,Boston,Massachusetts,USA,2023-03-01
+30,Amelia Adams,amelia.adams30@example.com,Female,Portland,Oregon,USA,2023-12-05
+31,Harper Patel,harper.patel31@example.com,Male,San Diego,California,USA,2025-03-17
+32,Evelyn Rivera,evelyn.rivera32@example.com,Male,Portland,Oregon,USA,2023-06-21
+33,Harley Turner,harley.turner33@example.com,Female,Miami,Florida,USA,2024-01-08
+34,Liam Walker,liam.walker34@example.com,Female,Boston,Massachusetts,USA,2024-03-09
+35,Harper Adams,harper.adams35@example.com,Female,Denver,Colorado,USA,2024-07-23
+36,Mason Walker,mason.walker36@example.com,Female,Dallas,Texas,USA,2023-02-09
+37,Logan Carter,logan.carter37@example.com,Male,Denver,Colorado,USA,2023-05-21
+38,Harley Carter,harley.carter38@example.com,Male,Austin,Texas,USA,2024-02-13
+39,Ava Bennett,ava.bennett39@example.com,Male,Miami,Florida,USA,2023-09-16
+40,Elijah Brooks,elijah.brooks40@example.com,Male,San Diego,California,USA,2025-08-10
+41,Emma Ward,emma.ward41@example.com,Male,Miami,Florida,USA,2023-12-02
+42,Lucas Brooks,lucas.brooks42@example.com,Male,San Diego,California,USA,2024-09-30
+43,Evelyn Baker,evelyn.baker43@example.com,Male,Boston,Massachusetts,USA,2023-06-05
+44,Evelyn Hall,evelyn.hall44@example.com,Female,Dallas,Texas,USA,2023-09-05
+45,Evelyn Carter,evelyn.carter45@example.com,Female,Denver,Colorado,USA,2025-01-28
+46,Sophia Cooper,sophia.cooper46@example.com,Female,Portland,Oregon,USA,2023-01-26
+47,Mason Evans,mason.evans47@example.com,Female,Dallas,Texas,USA,2025-01-11
+48,Harley Phillips,harley.phillips48@example.com,Male,Houston,Texas,USA,2025-06-10
+49,Ethan Cooper,ethan.cooper49@example.com,Female,Portland,Oregon,USA,2025-09-17
+50,Harper Turner,harper.turner50@example.com,Female,Houston,Texas,USA,2024-10-22
+51,James Reed,james.reed51@example.com,Female,Chicago,Illinois,USA,2024-05-14
+52,Harper Rivera,harper.rivera52@example.com,Female,San Diego,California,USA,2024-11-19
+53,Ava Evans,ava.evans53@example.com,Male,Denver,Colorado,USA,2025-09-25
+54,Olivia Ward,olivia.ward54@example.com,Female,Chicago,Illinois,USA,2024-07-26
+55,Henry Walker,henry.walker55@example.com,Male,Atlanta,Georgia,USA,2025-11-24
+56,Olivia Reed,olivia.reed56@example.com,Female,Seattle,Washington,USA,2025-09-27
+57,Logan Hall,logan.hall57@example.com,Female,Houston,Texas,USA,2025-10-02
+58,Harper Thompson,harper.thompson58@example.com,Female,Dallas,Texas,USA,2024-03-29
+59,Amelia Hall,amelia.hall59@example.com,Female,Chicago,Illinois,USA,2025-08-27
+60,Logan Cooper,logan.cooper60@example.com,Female,Denver,Colorado,USA,2024-11-08
+61,Benjamin Phillips,benjamin.phillips61@example.com,Female,Chicago,Illinois,USA,2024-05-29
+62,James Brooks,james.brooks62@example.com,Male,Houston,Texas,USA,2024-10-08
+63,Noah Murphy,noah.murphy63@example.com,Male,Houston,Texas,USA,2024-01-28
+64,Olivia Evans,olivia.evans64@example.com,Female,Chicago,Illinois,USA,2023-07-25
+65,Olivia Green,olivia.green65@example.com,Female,Seattle,Washington,USA,2024-01-03
+66,Lucas Thompson,lucas.thompson66@example.com,Male,Houston,Texas,USA,2024-07-15
+67,Liam Carter,liam.carter67@example.com,Female,Atlanta,Georgia,USA,2023-09-16
+68,Harley Evans,harley.evans68@example.com,Male,Dallas,Texas,USA,2024-08-05
+69,Elijah Evans,elijah.evans69@example.com,Female,Phoenix,Arizona,USA,2024-01-13
+70,Liam Walker,liam.walker70@example.com,Male,Phoenix,Arizona,USA,2023-05-14
+71,Amelia Evans,amelia.evans71@example.com,Male,Dallas,Texas,USA,2023-11-07
+72,Mia Rivera,mia.rivera72@example.com,Male,Chicago,Illinois,USA,2024-05-23
+73,Noah Murphy,noah.murphy73@example.com,Male,Boston,Massachusetts,USA,2025-12-06
+74,Amelia Phillips,amelia.phillips74@example.com,Female,Phoenix,Arizona,USA,2025-05-28
+75,Lucas Rivera,lucas.rivera75@example.com,Male,San Diego,California,USA,2023-07-23
+76,Olivia Stone,olivia.stone76@example.com,Male,Chicago,Illinois,USA,2023-11-18
+77,James Gray,james.gray77@example.com,Male,Atlanta,Georgia,USA,2023-11-17
+78,Ava Turner,ava.turner78@example.com,Female,Phoenix,Arizona,USA,2024-08-19
+79,Liam Hall,liam.hall79@example.com,Female,Chicago,Illinois,USA,2025-07-18
+80,Sophia Hall,sophia.hall80@example.com,Male,Chicago,Illinois,USA,2025-05-20
+81,Noah Murphy,noah.murphy81@example.com,Male,Seattle,Washington,USA,2024-06-28
+82,Mia Reed,mia.reed82@example.com,Male,Austin,Texas,USA,2024-09-21
+83,Henry Rivera,henry.rivera83@example.com,Female,Chicago,Illinois,USA,2023-09-12
+84,Harper Green,harper.green84@example.com,Female,Houston,Texas,USA,2024-07-11
+85,Charlotte Murphy,charlotte.murphy85@example.com,Female,Phoenix,Arizona,USA,2023-06-14
+86,Henry Carter,henry.carter86@example.com,Female,Boston,Massachusetts,USA,2024-05-27
+87,Ava Reed,ava.reed87@example.com,Male,Seattle,Washington,USA,2024-07-05
+88,Evelyn Carter,evelyn.carter88@example.com,Female,Miami,Florida,USA,2025-11-28
+89,Harley Phillips,harley.phillips89@example.com,Male,Chicago,Illinois,USA,2025-06-11
+90,Harley Evans,harley.evans90@example.com,Female,Dallas,Texas,USA,2024-12-13
+91,Mason Adams,mason.adams91@example.com,Male,Denver,Colorado,USA,2023-11-26
+92,Isabella Turner,isabella.turner92@example.com,Female,Houston,Texas,USA,2024-08-13
+93,Leo Baker,leo.baker93@example.com,Male,Atlanta,Georgia,USA,2025-07-20
+94,Sophia Adams,sophia.adams94@example.com,Female,Chicago,Illinois,USA,2023-08-26
+95,Amelia Cooper,amelia.cooper95@example.com,Female,Austin,Texas,USA,2025-04-26
+96,Liam Stone,liam.stone96@example.com,Female,Atlanta,Georgia,USA,2025-10-17
+97,Harley Phillips,harley.phillips97@example.com,Male,Austin,Texas,USA,2024-06-30
+98,Logan Patel,logan.patel98@example.com,Female,Chicago,Illinois,USA,2025-09-19
+99,Noah Thompson,noah.thompson99@example.com,Male,Portland,Oregon,USA,2023-11-21
+100,Lucas Murphy,lucas.murphy100@example.com,Female,Austin,Texas,USA,2023-07-10
+101,James Brooks,james.brooks101@example.com,Male,Phoenix,Arizona,USA,2023-11-12
+102,Elijah Green,elijah.green102@example.com,Female,Atlanta,Georgia,USA,2025-04-30
+103,Elijah Evans,elijah.evans103@example.com,Female,Seattle,Washington,USA,2023-10-24
+104,Amelia Stone,amelia.stone104@example.com,Male,San Diego,California,USA,2023-05-23
+105,Emma Turner,emma.turner105@example.com,Female,Denver,Colorado,USA,2023-01-06
+106,Lucas Green,lucas.green106@example.com,Female,San Diego,California,USA,2023-11-01
+107,Harper Murphy,harper.murphy107@example.com,Female,Phoenix,Arizona,USA,2024-11-11
+108,Logan Murphy,logan.murphy108@example.com,Female,Boston,Massachusetts,USA,2024-10-21
+109,Olivia Hall,olivia.hall109@example.com,Female,San Diego,California,USA,2024-04-23
+110,Mason Carter,mason.carter110@example.com,Female,Denver,Colorado,USA,2025-02-19
+111,Amelia Patel,amelia.patel111@example.com,Male,Phoenix,Arizona,USA,2023-09-16
+112,Charlotte Rivera,charlotte.rivera112@example.com,Male,Denver,Colorado,USA,2025-06-20
+113,Noah Cooper,noah.cooper113@example.com,Male,Phoenix,Arizona,USA,2023-10-23
+114,Mason Patel,mason.patel114@example.com,Female,Dallas,Texas,USA,2024-06-26
+115,Isabella Bennett,isabella.bennett115@example.com,Female,Houston,Texas,USA,2023-06-14
+116,Isabella Murphy,isabella.murphy116@example.com,Female,Boston,Massachusetts,USA,2025-09-26
+117,Logan Carter,logan.carter117@example.com,Male,San Diego,California,USA,2024-04-25
+118,Harley Green,harley.green118@example.com,Male,Seattle,Washington,USA,2025-06-07
+119,Noah Brooks,noah.brooks119@example.com,Male,Phoenix,Arizona,USA,2024-09-05
+120,Ava Carter,ava.carter120@example.com,Male,Denver,Colorado,USA,2024-08-23
+121,Benjamin Ward,benjamin.ward121@example.com,Male,Boston,Massachusetts,USA,2024-05-15
+122,Charlotte Turner,charlotte.turner122@example.com,Male,San Diego,California,USA,2023-12-15
+123,Ethan Reed,ethan.reed123@example.com,Female,San Diego,California,USA,2024-05-08
+124,Elijah Rivera,elijah.rivera124@example.com,Male,Miami,Florida,USA,2025-08-02
+125,Harley Walker,harley.walker125@example.com,Female,Phoenix,Arizona,USA,2023-01-20
+126,Harper Green,harper.green126@example.com,Male,Portland,Oregon,USA,2023-06-01
+127,Harper Ward,harper.ward127@example.com,Female,San Diego,California,USA,2025-05-18
+128,Emma Phillips,emma.phillips128@example.com,Male,Chicago,Illinois,USA,2025-02-26
+129,Elijah Brooks,elijah.brooks129@example.com,Female,Seattle,Washington,USA,2025-01-05
+130,Evelyn Green,evelyn.green130@example.com,Female,Houston,Texas,USA,2023-02-14
+131,Leo Baker,leo.baker131@example.com,Male,Chicago,Illinois,USA,2023-04-11
+132,Henry Evans,henry.evans132@example.com,Male,Chicago,Illinois,USA,2024-12-22
+133,James Stone,james.stone133@example.com,Female,San Diego,California,USA,2023-10-08
+134,Harley Brooks,harley.brooks134@example.com,Male,Portland,Oregon,USA,2024-09-24
+135,Harper Carter,harper.carter135@example.com,Female,San Diego,California,USA,2023-09-27
+136,Sophia Green,sophia.green136@example.com,Female,Denver,Colorado,USA,2023-12-26
+137,Olivia Patel,olivia.patel137@example.com,Female,Atlanta,Georgia,USA,2025-12-23
+138,Charlotte Walker,charlotte.walker138@example.com,Female,Miami,Florida,USA,2025-09-13
+139,Lucas Adams,lucas.adams139@example.com,Female,Dallas,Texas,USA,2023-06-04
+140,Mia Hall,mia.hall140@example.com,Female,Portland,Oregon,USA,2025-01-19
+141,Sophia Baker,sophia.baker141@example.com,Female,Austin,Texas,USA,2023-09-11
+142,Harper Ward,harper.ward142@example.com,Female,Portland,Oregon,USA,2025-02-19
+143,Harley Ward,harley.ward143@example.com,Male,Dallas,Texas,USA,2025-08-23
+144,Ava Bennett,ava.bennett144@example.com,Female,Atlanta,Georgia,USA,2024-03-29
+145,Harley Reed,harley.reed145@example.com,Female,Portland,Oregon,USA,2024-09-10
+146,Harley Turner,harley.turner146@example.com,Male,Dallas,Texas,USA,2023-04-03
+147,Liam Green,liam.green147@example.com,Male,Phoenix,Arizona,USA,2023-07-19
+148,James Murphy,james.murphy148@example.com,Female,Miami,Florida,USA,2025-07-18
+149,Benjamin Murphy,benjamin.murphy149@example.com,Male,Boston,Massachusetts,USA,2025-04-29
+150,Harley Brooks,harley.brooks150@example.com,Female,Phoenix,Arizona,USA,2024-07-26
+151,Liam Ward,liam.ward151@example.com,Female,Seattle,Washington,USA,2025-06-29
+152,James Ward,james.ward152@example.com,Female,Dallas,Texas,USA,2025-01-04
+153,Liam Baker,liam.baker153@example.com,Male,Chicago,Illinois,USA,2023-09-08
+154,Harper Reed,harper.reed154@example.com,Male,Portland,Oregon,USA,2023-02-13
+155,Liam Adams,liam.adams155@example.com,Male,Seattle,Washington,USA,2024-02-25
+156,Sophia Murphy,sophia.murphy156@example.com,Male,Seattle,Washington,USA,2024-04-22
+157,Isabella Patel,isabella.patel157@example.com,Male,San Diego,California,USA,2024-07-21
+158,Mia Patel,mia.patel158@example.com,Female,Atlanta,Georgia,USA,2023-12-24
+159,Noah Thompson,noah.thompson159@example.com,Male,Miami,Florida,USA,2025-01-03
+160,James Rivera,james.rivera160@example.com,Male,Denver,Colorado,USA,2023-12-23
+161,Emma Carter,emma.carter161@example.com,Female,Miami,Florida,USA,2025-12-13
+162,Noah Reed,noah.reed162@example.com,Female,Phoenix,Arizona,USA,2025-01-11
+163,Charlotte Rivera,charlotte.rivera163@example.com,Female,Dallas,Texas,USA,2025-10-28
+164,James Bennett,james.bennett164@example.com,Female,Austin,Texas,USA,2025-07-27
+165,Harley Thompson,harley.thompson165@example.com,Female,Austin,Texas,USA,2025-04-02
+166,Mason Brooks,mason.brooks166@example.com,Female,Phoenix,Arizona,USA,2023-05-31
+167,Sophia Adams,sophia.adams167@example.com,Male,San Diego,California,USA,2023-05-15
+168,Mia Walker,mia.walker168@example.com,Female,San Diego,California,USA,2025-02-19
+169,Henry Cooper,henry.cooper169@example.com,Female,Chicago,Illinois,USA,2025-11-01
+170,Henry Turner,henry.turner170@example.com,Male,Dallas,Texas,USA,2024-03-16
+171,Mason Phillips,mason.phillips171@example.com,Female,Seattle,Washington,USA,2024-11-25
+172,Harper Baker,harper.baker172@example.com,Male,Boston,Massachusetts,USA,2024-10-02
+173,Mason Adams,mason.adams173@example.com,Female,Portland,Oregon,USA,2025-02-05
+174,Mia Evans,mia.evans174@example.com,Male,Dallas,Texas,USA,2023-06-24
+175,Sophia Turner,sophia.turner175@example.com,Female,Dallas,Texas,USA,2023-09-24
+176,Logan Carter,logan.carter176@example.com,Female,San Diego,California,USA,2023-09-08
+177,Mason Ward,mason.ward177@example.com,Female,Portland,Oregon,USA,2023-04-16
+178,Lucas Bennett,lucas.bennett178@example.com,Female,Chicago,Illinois,USA,2023-08-01
+179,Evelyn Cooper,evelyn.cooper179@example.com,Male,Seattle,Washington,USA,2025-09-14
+180,James Brooks,james.brooks180@example.com,Female,Denver,Colorado,USA,2023-08-24
+181,Emma Rivera,emma.rivera181@example.com,Female,Seattle,Washington,USA,2023-02-23
+182,Henry Walker,henry.walker182@example.com,Male,Austin,Texas,USA,2024-07-13
+183,Lucas Adams,lucas.adams183@example.com,Male,Denver,Colorado,USA,2024-01-07
+184,Mia Rivera,mia.rivera184@example.com,Female,Portland,Oregon,USA,2023-05-23
+185,Mia Thompson,mia.thompson185@example.com,Male,Dallas,Texas,USA,2025-02-09
+186,Mason Phillips,mason.phillips186@example.com,Male,Denver,Colorado,USA,2025-01-27
+187,Lucas Adams,lucas.adams187@example.com,Male,San Diego,California,USA,2023-04-18
+188,Mia Gray,mia.gray188@example.com,Male,San Diego,California,USA,2023-06-17
+189,Emma Phillips,emma.phillips189@example.com,Female,Portland,Oregon,USA,2025-09-21
+190,Henry Phillips,henry.phillips190@example.com,Female,Boston,Massachusetts,USA,2024-03-17
+191,Charlotte Brooks,charlotte.brooks191@example.com,Female,Denver,Colorado,USA,2023-08-16
+192,Lucas Rivera,lucas.rivera192@example.com,Female,Phoenix,Arizona,USA,2023-04-04
+193,James Baker,james.baker193@example.com,Male,San Diego,California,USA,2023-01-16
+194,Olivia Green,olivia.green194@example.com,Male,Seattle,Washington,USA,2024-06-07
+195,Lucas Adams,lucas.adams195@example.com,Male,Dallas,Texas,USA,2025-10-15
+196,Mason Gray,mason.gray196@example.com,Female,Miami,Florida,USA,2025-12-26
+197,James Cooper,james.cooper197@example.com,Female,Atlanta,Georgia,USA,2023-05-28
+198,Amelia Carter,amelia.carter198@example.com,Male,Boston,Massachusetts,USA,2025-07-30
+199,Sophia Adams,sophia.adams199@example.com,Female,San Diego,California,USA,2025-04-08
+200,Harley Turner,harley.turner200@example.com,Male,Chicago,Illinois,USA,2025-04-09

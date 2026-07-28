@@ -1,0 +1,400 @@
+review_id,customer_id,product_id,rating,review_text,review_date
+377,2,73,3,Great quality and fast shipping.,16-07-2025 08:26
+378,2,97,4,Would buy again.,17-07-2025 08:26
+21,4,90,3,The product matched the description.,17-01-2025 19:53
+101,6,43,5,Exactly what I needed.,26-02-2025 08:55
+405,6,13,4,"Packaging could be better, but the item is good.",12-10-2025 14:48
+245,9,1,5,Would buy again.,04-05-2025 19:33
+373,9,39,4,Works well and feels durable.,26-09-2025 19:24
+374,9,16,5,Would buy again.,20-10-2025 19:24
+87,12,71,4,The product matched the description.,19-07-2025 13:09
+95,12,96,4,Great quality and fast shipping.,23-01-2026 02:53
+228,14,2,4,The product matched the description.,09-01-2026 17:52
+349,14,21,4,Great quality and fast shipping.,22-03-2025 13:35
+104,15,79,3,The product matched the description.,07-04-2025 16:12
+278,15,39,3,Great quality and fast shipping.,09-10-2025 00:58
+30,17,47,3,Good value for the price.,31-03-2025 06:29
+26,20,87,4,Would buy again.,24-05-2025 13:27
+158,20,65,5,Good value for the price.,18-11-2025 03:50
+27,22,41,4,Works well and feels durable.,04-05-2025 09:40
+28,22,14,3,"Packaging could be better, but the item is good.",19-05-2025 09:40
+80,22,11,4,Works well and feels durable.,17-09-2025 02:14
+81,22,66,4,"Packaging could be better, but the item is good.",30-09-2025 02:14
+82,22,27,4,Works well and feels durable.,14-09-2025 02:14
+267,23,88,4,The product matched the description.,20-10-2025 19:03
+268,23,54,3,Great quality and fast shipping.,25-10-2025 19:03
+269,23,31,5,The product matched the description.,27-10-2025 19:03
+333,25,43,5,Good value for the price.,17-01-2026 17:41
+402,25,40,3,Exactly what I needed.,22-07-2025 14:37
+115,26,29,3,Exactly what I needed.,22-12-2025 05:02
+116,26,58,3,Great quality and fast shipping.,05-12-2025 05:02
+128,26,35,4,Solid performance overall.,14-12-2025 18:44
+129,26,94,4,Exactly what I needed.,02-01-2026 18:44
+130,26,54,3,Good value for the price.,11-01-2026 18:44
+201,26,31,5,Good value for the price.,07-06-2025 17:17
+394,27,52,3,Works well and feels durable.,02-07-2025 06:26
+96,28,69,4,Good value for the price.,11-04-2025 16:31
+166,28,37,4,The product matched the description.,23-01-2025 03:33
+183,28,26,5,Would buy again.,15-04-2025 14:17
+189,28,13,4,Works well and feels durable.,31-01-2025 18:22
+303,28,76,4,Exactly what I needed.,06-07-2025 07:24
+304,28,89,5,Solid performance overall.,04-07-2025 07:24
+258,29,28,3,Would buy again.,13-05-2025 19:54
+358,29,83,5,Good value for the price.,03-07-2025 01:23
+285,31,54,5,Would buy again.,14-02-2025 15:34
+212,33,42,5,Great quality and fast shipping.,13-03-2025 07:35
+213,33,61,4,Solid performance overall.,26-02-2025 07:35
+308,33,84,4,Solid performance overall.,24-07-2025 14:26
+170,34,6,5,"Packaging could be better, but the item is good.",17-03-2025 19:57
+335,34,15,5,Solid performance overall.,17-06-2025 08:11
+162,35,75,5,Good value for the price.,12-08-2025 01:25
+51,36,18,5,Exactly what I needed.,13-04-2025 23:53
+246,36,12,3,Great quality and fast shipping.,11-05-2025 05:52
+247,36,74,4,Good value for the price.,05-05-2025 05:52
+64,37,99,5,Great quality and fast shipping.,21-09-2025 13:59
+74,37,28,4,The product matched the description.,03-02-2025 21:38
+375,38,15,3,Works well and feels durable.,29-11-2025 20:35
+376,38,62,5,Would buy again.,22-11-2025 20:35
+210,40,95,4,Solid performance overall.,16-02-2025 01:50
+211,40,37,3,Great quality and fast shipping.,16-02-2025 01:50
+330,40,85,3,Exactly what I needed.,24-12-2025 15:07
+331,40,57,4,Good value for the price.,09-12-2025 15:07
+380,40,84,5,The product matched the description.,11-05-2025 08:19
+381,40,86,4,Exactly what I needed.,18-04-2025 08:19
+68,41,17,3,The product matched the description.,08-07-2025 17:04
+69,41,39,3,Good value for the price.,06-07-2025 17:04
+70,41,21,5,Exactly what I needed.,16-07-2025 17:04
+279,42,23,4,Good value for the price.,29-10-2025 08:20
+337,42,8,5,Works well and feels durable.,01-12-2025 12:56
+371,42,48,4,Exactly what I needed.,21-04-2025 17:26
+372,42,24,3,Works well and feels durable.,13-04-2025 17:26
+40,43,52,3,The product matched the description.,17-10-2025 14:28
+41,43,97,4,Solid performance overall.,09-10-2025 14:28
+42,43,43,3,Good value for the price.,18-10-2025 14:28
+46,45,11,4,Works well and feels durable.,21-12-2025 08:35
+47,45,87,5,"Packaging could be better, but the item is good.",17-12-2025 08:35
+48,45,41,3,Would buy again.,17-12-2025 08:35
+173,46,58,4,Would buy again.,18-11-2025 18:37
+49,47,74,5,Would buy again.,25-06-2025 07:27
+347,47,45,4,Works well and feels durable.,12-11-2025 20:46
+348,47,54,5,Would buy again.,30-10-2025 20:46
+202,48,52,4,Solid performance overall.,11-08-2025 00:52
+203,48,36,4,Good value for the price.,22-08-2025 00:52
+131,49,21,4,Exactly what I needed.,15-07-2025 21:05
+45,51,97,3,Good value for the price.,27-07-2025 22:20
+143,52,3,4,Good value for the price.,19-10-2025 02:14
+144,52,1,5,Exactly what I needed.,03-11-2025 02:14
+338,52,56,3,Works well and feels durable.,31-08-2025 08:25
+341,52,50,4,Solid performance overall.,02-04-2025 22:12
+58,53,77,4,Exactly what I needed.,26-11-2025 06:38
+59,53,69,5,"Packaging could be better, but the item is good.",19-12-2025 06:38
+406,53,39,3,Works well and feels durable.,08-06-2025 19:26
+102,55,80,5,Good value for the price.,06-01-2026 02:00
+390,55,24,4,The product matched the description.,23-01-2026 19:28
+391,55,57,4,"Packaging could be better, but the item is good.",01-01-2026 19:28
+2,56,8,5,Works well and feels durable.,29-08-2025 22:15
+3,56,9,3,Would buy again.,24-08-2025 22:15
+4,56,61,5,Good value for the price.,11-09-2025 22:15
+14,56,28,5,The product matched the description.,13-08-2025 12:16
+20,56,3,4,Great quality and fast shipping.,01-08-2025 17:46
+55,56,5,3,Great quality and fast shipping.,19-07-2025 10:43
+56,56,58,5,"Packaging could be better, but the item is good.",14-07-2025 10:43
+57,56,34,4,Works well and feels durable.,15-07-2025 10:43
+386,56,79,3,The product matched the description.,31-03-2025 08:33
+387,56,89,3,Would buy again.,08-03-2025 08:33
+110,57,10,5,The product matched the description.,20-09-2025 17:56
+111,57,31,3,Solid performance overall.,30-09-2025 17:56
+112,57,45,3,"Packaging could be better, but the item is good.",11-09-2025 17:56
+113,57,41,5,Solid performance overall.,14-10-2025 17:56
+198,57,5,3,"Packaging could be better, but the item is good.",14-11-2025 16:05
+199,57,65,3,Great quality and fast shipping.,15-11-2025 16:05
+167,58,37,5,Works well and feels durable.,31-10-2025 15:47
+168,58,89,4,Great quality and fast shipping.,26-10-2025 15:47
+7,60,74,3,Good value for the price.,15-08-2025 22:55
+93,60,98,4,Exactly what I needed.,27-08-2025 15:34
+193,60,21,5,Great quality and fast shipping.,30-09-2025 05:59
+306,60,24,5,Works well and feels durable.,16-04-2025 05:54
+343,60,80,5,Great quality and fast shipping.,26-01-2026 11:54
+342,62,3,5,Exactly what I needed.,20-07-2025 07:58
+302,63,17,4,The product matched the description.,21-03-2025 20:23
+320,63,82,5,Exactly what I needed.,02-08-2025 19:34
+321,63,75,4,Exactly what I needed.,28-07-2025 19:34
+322,63,40,5,"Packaging could be better, but the item is good.",21-07-2025 19:34
+36,65,62,4,Would buy again.,24-09-2025 03:11
+37,65,75,5,Good value for the price.,21-09-2025 03:11
+71,65,81,5,Works well and feels durable.,20-02-2025 08:12
+114,66,22,4,Good value for the price.,18-11-2025 23:33
+192,66,67,4,"Packaging could be better, but the item is good.",20-03-2025 17:48
+117,67,10,4,"Packaging could be better, but the item is good.",22-02-2025 00:06
+118,67,12,4,Exactly what I needed.,12-03-2025 00:06
+119,67,44,3,The product matched the description.,17-02-2025 00:06
+216,67,45,3,Would buy again.,22-03-2025 19:23
+339,67,3,4,Exactly what I needed.,18-03-2025 10:42
+397,67,56,5,Solid performance overall.,21-08-2025 23:53
+79,68,65,3,Exactly what I needed.,19-04-2025 02:52
+364,71,81,4,Works well and feels durable.,15-03-2025 20:08
+365,71,3,3,Solid performance overall.,22-02-2025 20:08
+177,73,85,4,Solid performance overall.,04-09-2025 22:18
+393,73,29,3,Good value for the price.,08-07-2025 19:02
+54,75,99,4,Exactly what I needed.,25-01-2025 00:44
+60,75,13,5,Works well and feels durable.,13-09-2025 18:16
+61,75,18,4,Good value for the price.,26-08-2025 18:16
+163,75,23,3,Good value for the price.,24-10-2025 23:40
+164,75,70,5,"Packaging could be better, but the item is good.",03-10-2025 23:40
+336,76,99,4,Good value for the price.,03-08-2025 16:20
+5,77,59,3,Would buy again.,03-08-2025 03:30
+94,79,19,4,Solid performance overall.,19-03-2025 16:52
+97,79,39,4,Would buy again.,03-08-2025 06:42
+98,79,91,5,"Packaging could be better, but the item is good.",09-07-2025 06:42
+99,79,90,5,"Packaging could be better, but the item is good.",17-07-2025 06:42
+100,79,78,3,Great quality and fast shipping.,05-07-2025 06:42
+287,79,43,3,Great quality and fast shipping.,13-05-2025 22:50
+288,79,51,4,"Packaging could be better, but the item is good.",06-06-2025 22:50
+403,79,85,3,Works well and feels durable.,20-03-2025 18:56
+404,79,73,3,The product matched the description.,04-03-2025 18:56
+224,80,67,5,The product matched the description.,17-01-2026 22:09
+225,80,16,4,Exactly what I needed.,31-01-2026 22:09
+226,80,33,4,The product matched the description.,25-01-2026 22:09
+227,80,62,3,Great quality and fast shipping.,08-02-2026 22:09
+399,80,88,4,"Packaging could be better, but the item is good.",28-10-2025 07:01
+174,81,96,5,Good value for the price.,06-02-2025 21:26
+273,81,83,4,"Packaging could be better, but the item is good.",08-07-2025 09:45
+274,81,5,4,Would buy again.,17-06-2025 09:45
+275,81,67,3,Good value for the price.,02-07-2025 09:45
+291,81,48,4,Good value for the price.,13-11-2025 00:11
+398,81,39,4,Good value for the price.,29-12-2025 13:21
+8,83,53,4,The product matched the description.,28-04-2025 08:06
+105,83,68,4,Good value for the price.,14-02-2025 11:06
+106,83,47,5,Good value for the price.,29-01-2025 11:06
+219,83,37,3,Good value for the price.,09-02-2025 20:46
+220,83,35,3,Exactly what I needed.,16-01-2025 20:46
+242,83,96,3,Would buy again.,07-09-2025 14:49
+243,83,33,3,Works well and feels durable.,12-09-2025 14:49
+244,83,58,4,The product matched the description.,19-09-2025 14:49
+299,83,86,5,Great quality and fast shipping.,24-04-2025 05:18
+300,83,16,4,Exactly what I needed.,13-04-2025 05:18
+384,83,90,3,"Packaging could be better, but the item is good.",11-01-2026 03:45
+385,83,89,4,Solid performance overall.,18-12-2025 03:45
+400,83,95,5,"Packaging could be better, but the item is good.",13-02-2025 04:30
+401,83,75,4,Exactly what I needed.,21-02-2025 04:30
+250,84,58,3,Solid performance overall.,12-08-2025 10:43
+251,84,97,4,Exactly what I needed.,20-08-2025 10:43
+252,84,77,3,Good value for the price.,01-08-2025 10:43
+352,84,30,5,Solid performance overall.,26-06-2025 01:58
+355,84,74,5,Good value for the price.,13-07-2025 23:29
+356,84,1,3,Great quality and fast shipping.,20-07-2025 23:29
+44,85,85,5,Would buy again.,23-08-2025 18:10
+286,86,37,5,Great quality and fast shipping.,09-06-2025 02:58
+305,86,98,3,"Packaging could be better, but the item is good.",24-11-2025 19:06
+367,86,86,4,Great quality and fast shipping.,26-06-2025 05:14
+366,89,3,4,Solid performance overall.,08-07-2025 11:53
+389,90,73,5,Great quality and fast shipping.,27-05-2025 02:46
+194,91,71,3,The product matched the description.,01-10-2025 09:42
+283,91,24,4,Good value for the price.,06-01-2026 09:14
+284,91,79,3,Solid performance overall.,10-01-2026 09:14
+370,91,23,3,Great quality and fast shipping.,29-05-2025 18:37
+340,92,69,3,"Packaging could be better, but the item is good.",11-06-2025 19:53
+383,92,99,4,Exactly what I needed.,20-02-2025 06:03
+29,93,72,3,The product matched the description.,10-11-2025 00:15
+145,94,80,5,Works well and feels durable.,23-10-2025 12:01
+85,95,15,5,The product matched the description.,29-03-2025 10:14
+86,95,30,5,Great quality and fast shipping.,23-03-2025 10:14
+218,97,37,3,Solid performance overall.,04-04-2025 00:04
+9,98,24,3,Works well and feels durable.,11-12-2025 12:13
+10,98,97,3,The product matched the description.,22-11-2025 12:13
+379,98,64,3,The product matched the description.,25-05-2025 17:59
+83,101,40,5,"Packaging could be better, but the item is good.",12-09-2025 01:59
+84,101,90,4,Great quality and fast shipping.,24-09-2025 01:59
+120,101,55,3,Would buy again.,16-08-2025 09:16
+229,102,61,4,Works well and feels durable.,02-12-2025 19:21
+230,102,89,3,Good value for the price.,15-11-2025 19:21
+231,102,77,5,Works well and feels durable.,20-11-2025 19:21
+309,103,44,5,Exactly what I needed.,01-09-2025 16:11
+345,103,28,4,Solid performance overall.,19-05-2025 06:05
+346,103,98,4,Exactly what I needed.,03-06-2025 06:05
+23,104,22,3,The product matched the description.,04-06-2025 14:59
+24,104,64,5,The product matched the description.,18-06-2025 14:59
+25,104,56,5,Would buy again.,14-06-2025 14:59
+75,106,18,3,Solid performance overall.,21-09-2025 14:14
+206,106,33,3,Would buy again.,14-03-2025 07:31
+207,106,96,4,The product matched the description.,14-03-2025 07:31
+208,106,90,3,"Packaging could be better, but the item is good.",29-03-2025 07:31
+209,106,11,4,"Packaging could be better, but the item is good.",20-03-2025 07:31
+239,107,94,5,"Packaging could be better, but the item is good.",23-12-2025 13:50
+88,108,10,4,Exactly what I needed.,15-04-2025 12:38
+89,108,74,3,Works well and feels durable.,11-04-2025 12:38
+90,108,48,5,Works well and feels durable.,18-04-2025 12:38
+191,109,77,3,Exactly what I needed.,09-03-2025 07:52
+34,113,39,4,Solid performance overall.,09-06-2025 07:58
+35,113,42,4,Exactly what I needed.,19-06-2025 07:58
+72,114,17,3,The product matched the description.,29-01-2025 22:33
+73,114,62,4,The product matched the description.,09-01-2025 22:33
+240,114,48,3,Would buy again.,20-01-2026 21:02
+241,114,98,3,Works well and feels durable.,21-01-2026 21:02
+316,116,64,5,Great quality and fast shipping.,07-06-2025 17:48
+317,116,31,5,Great quality and fast shipping.,13-06-2025 17:48
+277,117,81,3,Works well and feels durable.,15-06-2025 14:53
+307,117,99,5,The product matched the description.,11-08-2025 15:53
+22,118,84,5,Exactly what I needed.,30-08-2025 18:12
+66,118,55,3,Great quality and fast shipping.,12-09-2025 21:08
+195,118,49,5,Works well and feels durable.,23-01-2026 12:12
+368,118,48,4,The product matched the description.,03-06-2025 10:15
+122,120,86,4,The product matched the description.,11-05-2025 15:04
+123,120,11,4,Works well and feels durable.,11-05-2025 15:04
+296,120,3,4,Good value for the price.,20-01-2026 15:48
+297,120,74,3,Great quality and fast shipping.,05-01-2026 15:48
+298,120,98,3,Great quality and fast shipping.,01-01-2026 15:48
+133,122,78,4,Solid performance overall.,12-01-2026 07:56
+175,122,38,3,Exactly what I needed.,25-03-2025 01:02
+176,122,39,4,Good value for the price.,03-04-2025 01:02
+294,124,68,4,Solid performance overall.,04-01-2026 18:47
+295,124,40,3,Exactly what I needed.,15-01-2026 18:47
+382,124,16,3,The product matched the description.,26-08-2025 23:32
+50,125,22,3,Good value for the price.,07-10-2025 03:18
+108,125,29,3,Solid performance overall.,25-09-2025 10:47
+109,125,76,4,Solid performance overall.,04-10-2025 10:47
+233,125,57,5,Good value for the price.,08-04-2025 16:41
+234,125,94,4,Would buy again.,11-05-2025 16:41
+237,125,63,5,Solid performance overall.,25-04-2025 17:59
+238,125,90,3,Great quality and fast shipping.,31-03-2025 17:59
+310,125,52,3,Good value for the price.,10-03-2025 17:33
+361,125,38,3,Great quality and fast shipping.,26-07-2025 01:51
+362,125,58,5,Exactly what I needed.,26-07-2025 01:51
+363,125,80,4,Good value for the price.,25-07-2025 01:51
+392,127,64,4,Exactly what I needed.,30-10-2025 08:54
+77,128,50,5,The product matched the description.,11-10-2025 03:21
+232,128,46,5,The product matched the description.,01-03-2025 19:55
+52,130,22,3,Would buy again.,20-10-2025 23:03
+53,130,11,3,Works well and feels durable.,17-10-2025 23:03
+159,131,7,4,Solid performance overall.,29-08-2025 17:19
+1,132,93,4,Good value for the price.,30-06-2025 16:02
+65,132,42,5,Great quality and fast shipping.,26-11-2025 12:39
+292,135,12,5,"Packaging could be better, but the item is good.",02-06-2025 17:48
+293,135,57,5,Solid performance overall.,27-05-2025 17:48
+11,136,58,4,Good value for the price.,31-03-2025 09:50
+190,139,54,4,Solid performance overall.,13-12-2025 17:03
+236,139,24,3,Great quality and fast shipping.,09-06-2025 21:44
+78,140,3,3,"Packaging could be better, but the item is good.",22-10-2025 13:28
+221,140,2,4,"Packaging could be better, but the item is good.",10-07-2025 22:05
+315,140,20,4,Good value for the price.,26-04-2025 08:40
+67,141,13,3,Great quality and fast shipping.,13-09-2025 18:43
+253,141,17,4,Great quality and fast shipping.,29-06-2025 08:43
+254,141,98,3,Solid performance overall.,22-06-2025 08:43
+255,141,18,3,Solid performance overall.,25-06-2025 08:43
+91,142,95,3,Works well and feels durable.,29-07-2025 17:10
+92,142,80,3,Would buy again.,20-07-2025 17:10
+136,143,72,3,Would buy again.,22-03-2025 16:18
+137,143,98,4,Works well and feels durable.,24-03-2025 16:18
+138,143,88,4,Solid performance overall.,17-03-2025 16:18
+103,145,100,5,"Packaging could be better, but the item is good.",12-08-2025 10:38
+178,145,41,4,Exactly what I needed.,17-09-2025 11:32
+179,145,32,5,Solid performance overall.,18-08-2025 11:32
+17,146,33,4,Good value for the price.,18-12-2025 23:30
+18,146,98,3,Good value for the price.,30-11-2025 23:30
+19,146,63,5,The product matched the description.,09-12-2025 23:30
+235,146,21,4,Great quality and fast shipping.,29-03-2025 19:29
+204,148,72,4,"Packaging could be better, but the item is good.",09-10-2025 18:05
+205,148,56,5,Solid performance overall.,29-09-2025 18:05
+318,148,15,3,Solid performance overall.,01-06-2025 20:24
+319,148,75,4,Exactly what I needed.,19-06-2025 20:24
+388,152,97,4,Great quality and fast shipping.,04-03-2025 08:23
+6,153,95,4,Good value for the price.,21-02-2025 08:57
+325,153,22,4,Solid performance overall.,23-11-2025 09:08
+326,153,74,3,Great quality and fast shipping.,20-11-2025 09:08
+249,155,41,4,Works well and feels durable.,26-01-2026 23:40
+270,155,88,5,Would buy again.,01-06-2025 05:09
+271,155,26,3,Would buy again.,14-06-2025 05:09
+127,156,89,5,The product matched the description.,10-07-2025 01:06
+263,159,85,3,Exactly what I needed.,25-05-2025 16:31
+264,159,35,5,Solid performance overall.,30-04-2025 16:31
+265,159,47,3,Great quality and fast shipping.,05-05-2025 16:31
+327,160,33,5,Good value for the price.,21-01-2025 22:26
+328,160,17,4,Solid performance overall.,21-01-2025 22:26
+329,160,79,5,"Packaging could be better, but the item is good.",11-02-2025 22:26
+31,161,1,5,The product matched the description.,07-08-2025 21:12
+32,161,51,4,Solid performance overall.,20-08-2025 21:12
+33,161,43,5,Great quality and fast shipping.,19-07-2025 21:12
+121,161,11,3,Great quality and fast shipping.,20-09-2025 10:24
+171,162,69,3,Great quality and fast shipping.,17-11-2025 18:18
+172,162,90,3,Would buy again.,15-11-2025 18:18
+140,163,74,4,Good value for the price.,02-03-2025 20:43
+214,164,57,4,Exactly what I needed.,28-08-2025 15:13
+215,164,40,3,Good value for the price.,16-08-2025 15:13
+187,165,85,5,Good value for the price.,03-05-2025 09:20
+188,165,30,5,Would buy again.,28-04-2025 09:20
+43,166,23,3,Would buy again.,16-03-2025 19:20
+132,166,100,3,Exactly what I needed.,09-04-2025 18:11
+350,166,6,4,The product matched the description.,17-06-2025 18:31
+351,166,14,5,Solid performance overall.,11-06-2025 18:31
+357,166,74,5,Good value for the price.,11-02-2025 13:39
+266,167,63,5,Would buy again.,19-06-2025 10:39
+272,167,29,3,Good value for the price.,09-06-2025 13:33
+154,168,74,4,Good value for the price.,11-05-2025 08:54
+155,168,93,4,Good value for the price.,11-05-2025 08:54
+156,168,73,5,The product matched the description.,04-06-2025 08:54
+146,170,49,3,"Packaging could be better, but the item is good.",14-03-2025 07:41
+147,170,16,5,Good value for the price.,18-02-2025 07:41
+289,174,46,5,Would buy again.,22-05-2025 20:41
+290,174,20,3,Solid performance overall.,16-05-2025 20:41
+139,175,18,5,Works well and feels durable.,27-06-2025 13:24
+135,176,36,3,Exactly what I needed.,10-03-2025 07:36
+256,176,32,3,Exactly what I needed.,24-06-2025 12:15
+257,176,19,3,Great quality and fast shipping.,08-06-2025 12:15
+311,176,28,3,"Packaging could be better, but the item is good.",08-12-2025 11:39
+334,176,4,4,Good value for the price.,29-07-2025 12:28
+150,177,15,5,Great quality and fast shipping.,22-01-2026 17:20
+153,177,17,5,Great quality and fast shipping.,25-12-2025 16:50
+157,177,87,3,Solid performance overall.,05-11-2025 09:52
+38,178,11,3,Exactly what I needed.,11-07-2025 18:50
+39,178,14,3,Would buy again.,20-07-2025 18:50
+282,178,8,3,Exactly what I needed.,05-01-2026 02:15
+62,180,98,3,Solid performance overall.,18-12-2025 16:26
+63,180,87,3,Would buy again.,17-12-2025 16:26
+148,180,13,5,"Packaging could be better, but the item is good.",28-03-2025 19:14
+149,180,15,5,Works well and feels durable.,04-04-2025 14:27
+107,181,21,3,Solid performance overall.,15-10-2025 11:35
+134,182,33,4,"Packaging could be better, but the item is good.",19-09-2025 22:46
+124,183,19,4,The product matched the description.,25-01-2025 19:41
+125,183,16,5,Solid performance overall.,27-01-2025 19:41
+126,183,97,3,Would buy again.,03-02-2025 19:41
+276,183,94,5,Works well and feels durable.,13-01-2026 05:24
+161,184,99,5,"Packaging could be better, but the item is good.",03-06-2025 13:46
+12,186,10,3,"Packaging could be better, but the item is good.",28-11-2025 10:37
+13,186,25,4,The product matched the description.,25-12-2025 10:37
+259,187,68,3,The product matched the description.,07-03-2025 05:27
+260,187,6,4,"Packaging could be better, but the item is good.",12-03-2025 05:27
+261,187,33,4,Good value for the price.,17-03-2025 05:27
+262,187,22,5,Would buy again.,05-04-2025 05:27
+184,188,47,4,Would buy again.,09-01-2026 05:20
+185,188,65,3,Great quality and fast shipping.,15-12-2025 05:20
+186,188,2,4,Good value for the price.,27-12-2025 05:20
+180,190,43,3,The product matched the description.,03-10-2025 05:02
+181,190,60,3,Would buy again.,12-09-2025 05:02
+182,190,58,3,Solid performance overall.,18-09-2025 05:02
+160,191,51,3,Exactly what I needed.,20-10-2025 13:25
+76,192,64,3,The product matched the description.,01-07-2025 11:23
+196,192,28,4,Would buy again.,07-12-2025 04:58
+197,192,74,5,Solid performance overall.,04-12-2025 04:58
+169,194,58,4,Great quality and fast shipping.,24-09-2025 20:08
+312,194,74,4,Good value for the price.,08-03-2025 07:34
+314,194,26,5,"Packaging could be better, but the item is good.",20-03-2025 07:34
+151,195,43,3,"Packaging could be better, but the item is good.",17-01-2026 02:07
+152,195,46,3,Works well and feels durable.,31-12-2025 02:07
+165,195,69,3,Exactly what I needed.,03-06-2025 03:05
+353,195,79,3,Solid performance overall.,02-06-2025 18:21
+354,195,22,3,Exactly what I needed.,13-06-2025 18:21
+359,195,7,5,Works well and feels durable.,22-04-2025 21:13
+360,195,9,3,Solid performance overall.,19-04-2025 21:13
+395,195,26,5,Great quality and fast shipping.,21-02-2025 01:11
+396,195,85,3,Would buy again.,09-02-2025 01:11
+141,196,62,3,"Packaging could be better, but the item is good.",25-11-2025 03:49
+142,196,50,4,Works well and feels durable.,06-12-2025 03:49
+280,197,71,3,Great quality and fast shipping.,10-05-2025 13:37
+281,197,9,5,Good value for the price.,26-05-2025 13:37
+222,198,99,4,The product matched the description.,14-07-2025 08:41
+223,198,86,3,Good value for the price.,29-06-2025 08:41
+15,199,47,4,Great quality and fast shipping.,09-05-2025 06:18
+16,199,66,3,"Packaging could be better, but the item is good.",11-05-2025 06:18
+200,199,2,4,Great quality and fast shipping.,21-03-2025 05:15
+323,200,46,3,Good value for the price.,09-02-2025 12:30
+324,200,38,3,The product matched the description.,12-01-2025 12:30

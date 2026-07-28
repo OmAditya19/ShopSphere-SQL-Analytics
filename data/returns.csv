@@ -1,0 +1,35 @@
+return_id,order_id,reason,refund_amount,return_date
+1,23,Damaged on arrival,585.41,2025-07-16 07:14:15
+2,25,Defective product,717.55,2025-08-05 17:46:20
+3,64,Damaged on arrival,535.4,2025-08-23 18:04:54
+4,72,Does not match description,876.39,2025-09-13 21:08:33
+5,75,Defective product,449.67,2025-02-06 08:12:54
+6,125,Defective product,914.58,2025-11-20 23:33:29
+7,127,Defective product,656.23,2025-02-14 00:06:29
+8,146,Defective product,369.28,2025-04-16 07:01:35
+9,159,Does not match description,444.18,2025-06-02 13:24:53
+10,169,Damaged on arrival,689.46,2025-03-22 19:14:52
+11,183,Wrong item received,523.97,2025-10-30 03:50:06
+12,186,Defective product,1262.04,2025-08-13 17:19:10
+13,214,Changed mind,1225.92,2026-01-08 18:01:55
+14,221,Changed mind,403.05,2025-08-20 11:32:08
+15,233,Defective product,817.56,2025-07-18 06:52:33
+16,272,Wrong item received,508.65,2025-09-12 03:08:38
+17,302,Wrong item received,607.33,2025-11-30 13:50:32
+18,313,Changed mind,903.25,2026-01-05 23:40:29
+19,314,Changed mind,489.54,2025-07-26 10:43:20
+20,324,Damaged on arrival,430.95,2025-06-07 10:39:27
+21,351,Does not match description,853.55,2025-12-17 02:15:45
+22,366,Damaged on arrival,392.67,2025-04-10 05:18:46
+23,378,Wrong item received,510.66,2025-11-29 11:39:06
+24,388,Does not match description,446.34,2025-10-22 08:08:47
+25,397,Wrong item received,462.29,2025-05-03 08:56:42
+26,399,Changed mind,839.31,2026-01-08 17:41:49
+27,400,Wrong item received,465.59,2025-11-09 14:17:23
+28,419,Defective product,473.91,2025-05-16 06:05:19
+29,423,Wrong item received,678.97,2025-03-06 21:40:31
+30,435,Damaged on arrival,289.03,2025-07-04 23:29:29
+31,460,Does not match description,679.84,2025-12-15 21:04:58
+32,463,Damaged on arrival,828.71,2025-05-10 17:59:32
+33,480,Damaged on arrival,1470.51,2026-01-03 19:28:08
+34,497,Wrong item received,812.24,2025-06-19 14:37:49
